@@ -6,7 +6,7 @@ A simple full text search tool
 2. Add the path of GodEyes to PATH 
 # Use
 `GodEyes <path> <content> <search_mode>`
-## search_mode:
+## search_mode
 either of the following:
 * all `default`
 * filename
